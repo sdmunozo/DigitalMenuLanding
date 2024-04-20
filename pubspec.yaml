@@ -73,7 +73,7 @@ flutter:
     - family: Helvetica
       fonts:
         - asset: fonts/Helvetica.ttf
-        - asset: fonts/Helvetica-Bold.ttf
+        - asset: fonts/helvetica-bold.ttf
           weight: 700
 
   assets:
